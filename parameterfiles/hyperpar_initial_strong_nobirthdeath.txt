@@ -1,0 +1,17 @@
+2.0 50.0
+1.0 2000.0 1.5 3.0 
+10.0 15.0 0.05
+1.0 24.0 10.0 50.0 0.7
+1 1 0.15
+1 1 
+0 100 1 50 0.5
+1 1 0.15
+1 100 
+0 100 1 50 0.5
+1 1 0.15
+1 1 
+0 100 1 50 0.5
+
+    1     1   1     1    1      0    1   1     1     1   1     1     1    1        0
+offlambda q alpha omega rho0 gamma0 nu0 rho1 gamma1 nu1 rho2 gamma2 nu2 states birthdeathimmune
+

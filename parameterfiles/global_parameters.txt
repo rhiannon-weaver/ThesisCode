@@ -1,0 +1,2 @@
+0.20 2.0 3.0 0 284 356 604 1223 0.98 0.98 0.90 0.95 0.98 10
+immune_rate immune_hyper_alpha immune_hyper_beta survival_hyper_timepoints(5) survival_hyper_height(5) survival_hyper_temperature

@@ -1,0 +1,36 @@
+0.33 
+
+2.5 0.01
+parameterfiles/bdi_dist.txt
+200
+100 
+200
+
+
+200
+
+
+200
+
+
+200
+
+
+# merge_split_prob 
+# states
+# bdi_dist 
+# q
+# alpha: prop_sample_size .... 
+# omega: prop_sample_size ....
+# Offlambda (quasi Gibbs Step)
+# Gamma off (quasi Gibbs Step)
+# Nu off
+# rho off
+# Gamma spike (quasi Gibbs Step)
+# Nu spike
+# rho spike
+# Gamma decay (quasi Gibbs Step)
+# Nu decay
+# rho decay
+# Info (t star when we want to think about it)
+# Counts (quasi Gibbs Step)
